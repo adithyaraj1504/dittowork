@@ -1,4 +1,4 @@
-﻿# Ditto Model Codes Repository
+# Ditto Model Codes Repository
 
 This repository contains experimental code implementations for operator learning, comparing **Proposed** architectures (such as Fast U-Net variants) against **Existing / Baseline** models across various partial differential equation (PDE) benchmark systems.
 
