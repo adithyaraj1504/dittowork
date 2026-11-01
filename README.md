@@ -15,6 +15,7 @@ This repository contains experimental code implementations for operator learning
 * unet-1st-system-series.ipynb — Existing U-Net model evaluated on System 1 in a series configuration.
 * unet_1st_system_parallel.ipynb — Existing U-Net model evaluated on System 1 in a parallel configuration.
 * ast-unet-system-1-parallel.ipynb — **[Proposed]** Fast U-Net model evaluated on System 1 in a parallel configuration.
+* ast_unet_model_4_models_system_1_(series)_.ipynb — **[Proposed]** Fast U-Net model configured with System 1 PDE in a series setup using 4 models with random weights.
 
 ### **System 2: Gray-Scott Equation**
 * unet-2nd-system-parallel.ipynb — Existing U-Net model evaluated on System 2 in a parallel configuration.
